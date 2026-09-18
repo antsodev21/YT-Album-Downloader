@@ -6,5 +6,5 @@ Como me pareció buen script a pesar que este vibecodeado pues lo subo a Github 
 
 # Como usarlo :
 Lo primero es descargar las dependencias, necesitais python, pip, pipx, ffmpeg y mutagen
-```sudo apt install ffmpeg pip pipx```
-```pipx install yt-dlp```
+- ```sudo apt install ffmpeg pip pipx```
+- ```pipx install yt-dlp```
