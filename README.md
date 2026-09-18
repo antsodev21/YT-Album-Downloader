@@ -7,4 +7,4 @@ Como me pareció buen script a pesar que este vibecodeado pues lo subo a Github 
 # Como usarlo :
 Lo primero es descargar las dependencias que son : python, pip, pipx, ffmpeg y mutagen.
 Una vez instaladas las dependencias pues se usaria de la siguiente manera :
-```./YT-Album-Downloader 'url'```
+- ```./YT-Album-Downloader 'url'```
