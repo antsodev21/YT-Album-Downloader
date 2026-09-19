@@ -20,3 +20,8 @@ Lo primero es descargar las dependencias que son : python, pip, pipx, ffmpeg y m
 - ```pipx install yt-dlp```
 - ```pipx install mutagen```
 - ```pipx inject yt-dlp mutagen```
+
+# Uso :
+- ```./YT-Album-Downloader 'url-del-album' [formato] [carpeta]```
+
+*La URL es obligatoria pero los demas parametros entre corchetes son opcionales*
