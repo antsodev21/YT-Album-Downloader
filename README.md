@@ -7,14 +7,16 @@ Como me pareció buen script a pesar que este vibecodeado pues lo subo a GitHub 
 # Instalación :
 Lo primero es descargar las dependencias que son : python, pip, pipx, ffmpeg y mutagen, el mutagen es muy importante que este instalado ya que tiene relación con el tema de metadatos y si los metadatos no están correctos pueden haber fallos con la organización del álbum y otras cosas.
 
-- En Debian :
+**En Debian :** 
 - ```sudo apt install pip pipx ffmpeg```
-- En Arch :
+
+**En Arch :**
 - ```sudo pacman -S python-pip python-pipx ffmpeg```
-- En Void :
+
+**En Void :**
 - ```sudo xbps-install python3-pip python3-pipx ffmpeg```
 
-- Después :
+**Después :**
 - ```pipx install yt-dlp```
 - ```pipx install mutagen```
 - ```pipx inject yt-dlp mutagen```
